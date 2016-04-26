@@ -1,0 +1,28 @@
+- 理光 Theta 全景相机（全景拍照、全景录像、VR 格式存储）`硬件`
+- [Oculus](https://www.oculus.com/en-us/) `硬件`
+- Google Cardboard `VR眼镜` `硬件`
+- Cardboard 相机（搭配手机、全景相机拍摄并分享，支持 VR 模式观看） `APP`
+- Google 街景（支持全景图片分享、VR 模式观看） `APP`
+- Google Spotlight （全景影片体验） `APP`
+- Vrse（高清 VR 视频） `APP`
+- [Chris Milk at TED2016](http://blog.ted.com/chris-milk-hosts-the-largest-collective-virtual-reality-viewing-in-history-during-ted2016/) Chris Milk 的一篇文章，以及他的项目进展，Vrse 平台上有多部他的作品
+- [Chris Milk | Speaker | TED.com](https://www.ted.com/speakers/chris_milk) VR 与故事
+- Sites in VR （通过目光注视+停留来互动） `APP`
+- [AR/VR 相关文章](http://www.geekpark.net/collections/AR%2FVR) `网站`
+- [720云全景虚拟现实社区](http://720yun.com/)（全景、VR 内容分享整合） `网站`
+- [The Void](https://thevoid.com/#experiences)
+- [Cerevrum Inc.](http://cerevrum.com/)  虚拟实境项目公司
+- [Speech Center VR](http://speechcentervr.com/) 用 VR 帮你克服演讲社交恐惧
+- [讯飞开放平台](http://www.xfyun.cn/index.php/default/online_demo) 如互动时需要声音，有语音合成的开源
+- [Best Gear VR Apps](http://www.tomsguide.com/us/best-gear-vr-apps,review-3264.html)
+- [Psious](https://www.psious.com/en) 克服恐惧，医疗，视频内含论文线索
+- 参照网络视频早期发展（清晰度、网速、硬件、互动性等），起初清晰度低，体验不佳；网速网速限制，需要先下载再观看，才能保持流畅；互动性差；硬件要求较高。而 VR 则会再多一个问题：由于会产生晕动症，因此在硬件和计算能力未有突破前，体验时长会受限
+- [VRMC | Developed Products](http://www.vrphobia.com/products.htm)
+- [Virtual Reality Startups - AngelList](https://angel.co/virtual-reality-3)
+- [DeepStream VR | Products](http://wp.deepstreamvr.com/products/)
+- [DeepStream VR - YouTube](https://www.youtube.com/channel/UCRBLxa2RS8y3jz--yte6eYg?&ab_channel=DeepStreamVR)
+- [Virtual Reality In Healthcare: Where’s The Innovation? | TechCrunch](http://techcrunch.com/2015/09/16/virtual-reality-in-healthcare-wheres-the-innovation/)
+- [Virtual Reality stress - YouTube](https://www.youtube.com/results?q=Virtual+Reality+stress&sp=CAM%253D)
+- [Touchpress](http://www.touchpress.com/) iOS 早期出现的互动教育平台，提供优质聚合内容
+- VR 适合“过程”，体验偏离的过程，或者切换视角。这个过程需要经过设计，要求有世界观，目前的摄影、电影都是设定了固定的线索，VR 时代可能会完全不同。
+- 目前的内容生产，基本全部是以成人的视角拍摄。（航拍为上帝视角），没有儿童视角、老人视角、昆虫视角、细菌视角。（联想到卡夫卡的《变形记》了），结合6w的反讽，讽喻能否产生全新的观点？
