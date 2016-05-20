@@ -35,3 +35,20 @@ aJiea 补充：
     - VR里出现tips，帮助用户调整
 - VR外治愈，场外辅助（付费）
     - 现实中引导员根据屏幕上用户的表现进行现场提点
+
+
+Keynote 撰写素材收集
+- 模板
+- 背景图片
+  - [Pinterest](https://www.pinterest.com/search/pins/?0=public%7Ctyped&1=speaking%7Ctyped&2=fear%7Ctyped&q=public%20speaking%20fear&rs=typed)
+- 名人箴言
+- 背景音乐
+- 经典电影片段
+- 项目名字
+- Keynote 思路梳理
+- 产品故事
+- 产品故事优化（依据认知写作学）
+- Keynote 模板
+- 市场大小（心理咨询、治疗）
+- 团队背景
+- 项目进展全记录

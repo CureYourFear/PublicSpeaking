@@ -23,6 +23,30 @@
   - 李长宸/二师兄，[Github](https://github.com/woodali)，中文系学生
   - 余珊，[Github](https://github.com/shanzibnu)，有参与学校的 VR 实验室
 
+## 项目历史
+
+旧仓库地址：[X_Project](https://github.com/arlmy/X_Project)、[Issue 链接](https://github.com/arlmy/X_Project/issues)
+
+- 4月26日 项目仓库整体迁移，项目结构组内发出，见  [CureYourFear](https://github.com/CureYourFear/PublicSpeaking)
+- 4月24日 与尹珺及 2 位组长（张海良 & 高雪莹）讨论项目结构，小幅修正
+- 4月21日 总结项目方向，项目认领发出
+- 4月20日 项目方向大致确立
+- 4月19日 到开智体验 VR Oculus 硬件并讨论
+  - 讨论学科教育、VR 全景直播进行深入讨论，体验 VR 时，李怡萱提及 VR 已被用于心理治疗领域，进行一些行为脱敏的治疗，扩展了思路。切换此前的内容视角。
+- 4月16日 二次讨论
+  - VR 与地理、生物学科结合，利用空间转换，制作教育内容
+- 4月10日 确认团队成员
+  - 见[登记项目公示](https://github.com/OpenMindClub/Writer002/issues/97)
+- 4月9日 提前报名成员初次讨论
+  - VR 与教育方向：地理、历史、生物等人文科学
+- 4月7日 发布项目成员征集
+  - 见[大作业及组队通知](https://github.com/OpenMindClub/Writer002/issues/96)
+
+
+
+
+
+
 
   cureyourfear
   心理治疗领域 市场前景
